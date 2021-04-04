@@ -4,4 +4,4 @@ Download ZIP: [https://github.com/xushuduo/Xcode-iOS-Developer-Disk-Image/releas
 
 Path: `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport`
 
-Tip: Restart the Xcode
+Tip: Restart Xcode
